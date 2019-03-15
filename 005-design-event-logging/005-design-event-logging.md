@@ -4,7 +4,7 @@ WIP, COVERS ELASTICSEARCH 5.5.x, UPDATING TO ES 6.5.x
 
 # Design for Event Logging
 
-Elasticsearch has made a blast in the event analysis world thanks --- or because of --- the famous Elasticsearch / Logstash / Kibana (ELK) trinity. In this specific use cas, Elasticsearch acts as a hot storage that makes normalized events searchable.
+Elasticsearch has made a blast in the event analysis world thanks --- or because of --- the famous Elasticsearch / Logstash / Kibana (ELK) trinity. In this specific use case, Elasticsearch acts as a hot storage that makes normalized events searchable.
 
 The usual topology of an event analysis infrastructure is more or less the same whatever the technical stack.
 
